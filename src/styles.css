@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+.background2 {
+    /* Colors generated on: https://colorhunt.co/palette/179481 */
+    background: linear-gradient(#0B4015, #006311,#09AD1F,#00F55D,#00FC72 );
+  
+    background-size: 500% 500%;
+  
+  }
